@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
     DatabaseReference reference;
     FirebaseAuth mAuth;
 
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
